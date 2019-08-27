@@ -61,10 +61,6 @@ footer:hover i {
 }
 
 @media screen and (max-width:370px) {
-    body {
-        overflow-x: scroll;
-        overflow-y: hidden;
-    }
     #timer {
         font-size: 1em;
         margin-top: 23px;
