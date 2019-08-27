@@ -89,7 +89,7 @@ footer:hover i {
         line-height: 26px;
     }
     .container {
-        background: none;
+        /* background: none; */
         padding: 5px;
         width: 280px;
         margin: auto;
